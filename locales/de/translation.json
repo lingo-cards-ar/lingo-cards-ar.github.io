@@ -100,7 +100,7 @@
   "or": "oder",
   "subscriptionId": "AbonnementId",
   "cards": "Karten",
-  "upsert": "hochladen",
+  "list": "hochladen",
   "settings": "Einstellungen",
   "Enter text using selected languages": "Text in ausgewählten Sprachen eingeben",
   "Enter Lang text": "{{lang}} Text eingeben",

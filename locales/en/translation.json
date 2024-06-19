@@ -100,7 +100,7 @@
   "or": "or",
   "subscriptionId": "subscriptionId",
   "cards": "cards",
-  "upsert": "upsert",
+  "list": "list",
   "settings": "settings",
   "Enter text using selected languages": "Enter text using selected languages",
   "Enter Lang text": "Enter {{lang}} text",

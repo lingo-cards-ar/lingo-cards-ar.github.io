@@ -100,7 +100,7 @@
   "or": "або",
   "subscriptionId": "subscriptionId",
   "cards": "картки",
-  "upsert": "список",
+  "list": "список",
   "settings": "налаштування",
   "Enter text using selected languages": "Введення тексту однією з обраних мов",
   "Enter Lang text": "Введіть текст на {{lang}}",
